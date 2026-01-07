@@ -3,7 +3,11 @@ I made this weather app via tutorials. You can edit the UI
 
 TECHNOLOGIES USED:
 
-Languages used: HTML, CSS, JavaScript API: [OpenWeatherMap.org](OpenWeatherMap.org)
+Languages used: 
+
+HTML, CSS, JavaScript 
+
+API: [OpenWeatherMap.org](OpenWeatherMap.org)
 
 FOR MORE INFORMATION: 
 
