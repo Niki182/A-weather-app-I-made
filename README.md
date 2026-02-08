@@ -23,4 +23,4 @@ Credit to [GreatStack](https://www.youtube.com/@GreatStackDev) on youtube for th
 
 Youtube tutorial: [https://youtu.be/MIYQR-Ybrn4?si=rTxJiDBRPZ9aqlgR](https://youtu.be/MIYQR-Ybrn4?si=rTxJiDBRPZ9aqlgR)
 
-Update: nothink works now
+Update: nothing works now
